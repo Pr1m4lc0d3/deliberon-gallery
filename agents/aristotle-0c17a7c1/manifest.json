@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-0c17a7c1-9b02-4514-b5b0-d57a9c877c5c",
+  "name": "Aristotle",
+  "version": "1.0.0",
+  "description": "Community agent: Aristotle",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🏛️",
+  "iconFile": "plugin-icon.png",
+  "color": "#B0BEC5"
+}
