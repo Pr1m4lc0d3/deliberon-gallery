@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-6433fd46-7d1f-46e9-8f00-abb64ff9390e",
+  "name": "Lord Snodd",
+  "version": "1.0.0",
+  "description": "Community agent: Lord Snodd",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "👑",
+  "iconFile": "plugin-icon.png",
+  "color": "#FF9800"
+}
