@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-e6ed0416-297d-4124-ae2c-bcb3573aa58e",
+  "name": "The Capital Allocator",
+  "version": "1.1.0",
+  "description": "Community agent: The Capital Allocator",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "💰",
+  "iconFile": "plugin-icon.jpg",
+  "color": "#FFD700"
+}
