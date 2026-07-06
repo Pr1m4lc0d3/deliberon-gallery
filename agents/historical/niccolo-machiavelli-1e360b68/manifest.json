@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-1e360b68-c623-45ac-8715-c043b065e70b",
+  "name": "Niccolò Machiavelli",
+  "version": "1.1.0",
+  "description": "Community agent: Niccolò Machiavelli",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "👑",
+  "iconFile": "plugin-icon.png",
+  "color": "#260826"
+}
