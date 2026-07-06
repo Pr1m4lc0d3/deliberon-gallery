@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-6417e943-891c-4f17-a7e2-d0de32f51d04",
+  "name": "John Adams",
+  "version": "1.1.0",
+  "description": "Community agent: John Adams",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🃏",
+  "iconFile": "plugin-icon.jpg",
+  "color": "#B0BEC5"
+}
