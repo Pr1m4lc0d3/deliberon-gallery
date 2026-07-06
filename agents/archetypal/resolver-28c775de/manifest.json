@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-28c775de-aa89-4762-9f07-108c21c702a3",
+  "name": "The Resolver",
+  "version": "1.1.0",
+  "description": "Community agent: The Resolver",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🤝",
+  "iconFile": "plugin-icon.jpg",
+  "color": "#4D2B0A"
+}
