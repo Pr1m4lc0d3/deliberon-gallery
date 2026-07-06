@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-e20e19e9-9f07-46f8-abec-b69c9ba9dd01",
+  "name": "Governance Analyst",
+  "version": "1.1.0",
+  "description": "Community agent: Governance Analyst",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🏛️",
+  "iconFile": "plugin-icon.png",
+  "color": "#FF9E40"
+}
