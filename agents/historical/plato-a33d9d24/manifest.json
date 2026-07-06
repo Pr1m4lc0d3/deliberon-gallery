@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-a33d9d24-d523-4601-9c1e-bf7442247888",
+  "name": "Plato",
+  "version": "1.1.0",
+  "description": "Community agent: Plato",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "💭",
+  "iconFile": "plugin-icon.jpg",
+  "color": "#F44336"
+}
