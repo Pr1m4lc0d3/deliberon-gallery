@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-c2d7b6a0-b811-4ecd-89e4-c0fe11763fb1",
+  "name": "Patricia Churchland",
+  "version": "1.1.0",
+  "description": "Community agent: Patricia Churchland",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🔬",
+  "iconFile": "plugin-icon.png",
+  "color": "#9EFA42"
+}
