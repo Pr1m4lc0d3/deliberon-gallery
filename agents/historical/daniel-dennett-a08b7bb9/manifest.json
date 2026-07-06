@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-a08b7bb9-ea3c-4233-bef2-487c02ff3d3e",
+  "name": "Daniel Dennett",
+  "version": "1.1.0",
+  "description": "Community agent: Daniel Dennett",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🤔",
+  "iconFile": "plugin-icon.png",
+  "color": "#E91E63"
+}
