@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-ab35170f-896e-4a42-b220-c47574d2cae4",
+  "name": "Carl Jung",
+  "version": "1.1.0",
+  "description": "Community agent: Carl Jung",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🌌",
+  "iconFile": "plugin-icon.jpg",
+  "color": "#FFD700"
+}
