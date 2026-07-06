@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-832dd863-f4e6-4dea-925b-789c05b16a6e",
+  "name": "Alexander the Great",
+  "version": "1.1.0",
+  "description": "Community agent: Alexander the Great",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "🐎",
+  "iconFile": "plugin-icon.jpg",
+  "color": "#9C27B0"
+}
