@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-b34966fb-0fee-4d60-be18-9d8a2cd24488",
+  "name": "David Chalmers",
+  "version": "1.1.0",
+  "description": "Community agent: David Chalmers",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "👁️",
+  "iconFile": "plugin-icon.png",
+  "color": "#00BCD4"
+}
