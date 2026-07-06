@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-f313f35d-1675-4260-b520-bd793f28cb4b",
+  "name": "The Etymologist",
+  "version": "1.1.0",
+  "description": "Community agent: The Etymologist",
+  "category": "specialist",
+  "author": "Pr1m4lc0d3",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "📖",
+  "iconFile": "plugin-icon.png",
+  "color": "#D4B5F2"
+}
