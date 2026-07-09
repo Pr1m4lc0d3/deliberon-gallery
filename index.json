@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "variants": [
     {
       "variantId": "98b41602-d925-42d2-bb08-43bbbbda0772",
@@ -1327,44 +1327,6 @@
       "updatedAt": "2026-07-09T14:56:30.093Z"
     },
     {
-      "variantId": "4cffa0bd-1887-41a4-bcf3-803442078579",
-      "folder": "fictional/qa-race-1-4cffa0bd",
-      "shareId": "qa-p",
-      "version": 1,
-      "subject": "QA Subject",
-      "subjectKey": "qa-subject",
-      "name": "QA Race 1",
-      "emoji": "",
-      "accentColor": "#607D8B",
-      "personaName": "",
-      "systemVoice": "",
-      "domainKnowledge": "",
-      "operationalPosture": "",
-      "councilRole": "",
-      "portraitUrl": "",
-      "thumbUrl": "",
-      "phash": "",
-      "authorId": "qa-author-a-0001",
-      "authorHandle": "QA-Bot",
-      "categories": [
-        "fictional"
-      ],
-      "tags": [],
-      "purpose": "",
-      "userAuthored": false,
-      "provenance": "legacy-no-portrait",
-      "subjectPublicFigure": false,
-      "selfAttested": false,
-      "status": "quarantined",
-      "stars": 0,
-      "downloads": 0,
-      "coordinates": "",
-      "hasSample": false,
-      "generatedAt": "",
-      "submittedAt": "2026-07-09T14:56:35.486Z",
-      "updatedAt": "2026-07-09T14:56:35.486Z"
-    },
-    {
       "variantId": "6a5a7985-d3cf-4be8-baec-68c471ce7802",
       "folder": "fictional/qa-race-2-6a5a7985",
       "shareId": "qa-q",
@@ -1403,5 +1365,5 @@
       "updatedAt": "2026-07-09T14:56:40.715Z"
     }
   ],
-  "generatedAt": "2026-07-09T14:56:42.032Z"
+  "generatedAt": "2026-07-09T14:56:47.200Z"
 }
