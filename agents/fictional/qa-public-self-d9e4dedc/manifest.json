@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-d9e4dedc-6598-4472-9ad5-e9b40427bdde",
+  "name": "QA Public Self",
+  "version": "1.1.0",
+  "description": "Community agent: QA Public Self",
+  "category": "specialist",
+  "author": "QA-Bot",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "",
+  "iconFile": "plugin-icon.png",
+  "color": "#607D8B"
+}
