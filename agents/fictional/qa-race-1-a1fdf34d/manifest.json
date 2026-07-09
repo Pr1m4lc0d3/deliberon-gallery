@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-a1fdf34d-534c-4dd4-b4a6-396bcdce38a8",
+  "name": "QA Race 1",
+  "version": "1.1.0",
+  "description": "Community agent: QA Race 1",
+  "category": "specialist",
+  "author": "QA-Bot",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "",
+  "iconFile": "plugin-icon.png",
+  "color": "#607D8B"
+}
