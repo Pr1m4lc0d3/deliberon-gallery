@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "variants": [
     {
       "variantId": "98b41602-d925-42d2-bb08-43bbbbda0772",
@@ -1211,7 +1211,45 @@
       "generatedAt": "2026-07-07T12:47:53.9540274Z",
       "submittedAt": "2026-07-07T12:48:26.073Z",
       "updatedAt": "2026-07-07T12:48:26.073Z"
+    },
+    {
+      "variantId": "07aa57e3-ae8b-4cd2-acac-b12371f607b1",
+      "folder": "fictional/qa-owner-target-07aa57e3",
+      "shareId": "qa-y",
+      "version": 1,
+      "subject": "QA Subject",
+      "subjectKey": "qa-subject",
+      "name": "QA Owner Target",
+      "emoji": "",
+      "accentColor": "#607D8B",
+      "personaName": "",
+      "systemVoice": "",
+      "domainKnowledge": "",
+      "operationalPosture": "",
+      "councilRole": "",
+      "portraitUrl": "",
+      "thumbUrl": "",
+      "phash": "",
+      "authorId": "qa-author-a-0001",
+      "authorHandle": "QA-Bot",
+      "categories": [
+        "fictional"
+      ],
+      "tags": [],
+      "purpose": "",
+      "userAuthored": false,
+      "provenance": "legacy-no-portrait",
+      "subjectPublicFigure": false,
+      "selfAttested": false,
+      "status": "quarantined",
+      "stars": 0,
+      "downloads": 0,
+      "coordinates": "",
+      "hasSample": false,
+      "generatedAt": "",
+      "submittedAt": "2026-07-09T14:56:18.212Z",
+      "updatedAt": "2026-07-09T14:56:18.212Z"
     }
   ],
-  "generatedAt": "2026-07-09T14:56:13.016Z"
+  "generatedAt": "2026-07-09T14:56:19.377Z"
 }
