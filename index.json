@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "variants": [
     {
       "variantId": "98b41602-d925-42d2-bb08-43bbbbda0772",
@@ -1325,45 +1325,7 @@
       "generatedAt": "",
       "submittedAt": "2026-07-09T14:56:30.093Z",
       "updatedAt": "2026-07-09T14:56:30.093Z"
-    },
-    {
-      "variantId": "6a5a7985-d3cf-4be8-baec-68c471ce7802",
-      "folder": "fictional/qa-race-2-6a5a7985",
-      "shareId": "qa-q",
-      "version": 1,
-      "subject": "QA Subject",
-      "subjectKey": "qa-subject",
-      "name": "QA Race 2",
-      "emoji": "",
-      "accentColor": "#607D8B",
-      "personaName": "",
-      "systemVoice": "",
-      "domainKnowledge": "",
-      "operationalPosture": "",
-      "councilRole": "",
-      "portraitUrl": "",
-      "thumbUrl": "",
-      "phash": "",
-      "authorId": "qa-author-a-0001",
-      "authorHandle": "QA-Bot",
-      "categories": [
-        "fictional"
-      ],
-      "tags": [],
-      "purpose": "",
-      "userAuthored": false,
-      "provenance": "legacy-no-portrait",
-      "subjectPublicFigure": false,
-      "selfAttested": false,
-      "status": "quarantined",
-      "stars": 0,
-      "downloads": 0,
-      "coordinates": "",
-      "hasSample": false,
-      "generatedAt": "",
-      "submittedAt": "2026-07-09T14:56:40.715Z",
-      "updatedAt": "2026-07-09T14:56:40.715Z"
     }
   ],
-  "generatedAt": "2026-07-09T14:56:47.200Z"
+  "generatedAt": "2026-07-09T14:56:53.576Z"
 }
