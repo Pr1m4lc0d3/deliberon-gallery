@@ -1,0 +1,19 @@
+{
+  "pluginId": "gallery-agent-67124ea6-c5c2-4e98-927d-4e6b9b3979ce",
+  "name": "QA Normal",
+  "version": "1.1.0",
+  "description": "Community agent: QA Normal",
+  "category": "specialist",
+  "author": "QA-Bot",
+  "mainAssembly": "",
+  "mainClass": "Deliberon.DynamicTabs.Specialists.CustomSpecialistPlugin",
+  "minimumDeliberonVersion": "1.0.0",
+  "enabled": true,
+  "clonable": false,
+  "templateId": "custom-specialist",
+  "permissions": [],
+  "credentials": [],
+  "icon": "",
+  "iconFile": "plugin-icon.png",
+  "color": "#607D8B"
+}
