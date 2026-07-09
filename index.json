@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "variants": [
     {
       "variantId": "98b41602-d925-42d2-bb08-43bbbbda0772",
@@ -1287,45 +1287,7 @@
       "generatedAt": "",
       "submittedAt": "2026-07-09T14:56:24.930Z",
       "updatedAt": "2026-07-09T14:56:24.930Z"
-    },
-    {
-      "variantId": "67124ea6-c5c2-4e98-927d-4e6b9b3979ce",
-      "folder": "fictional/qa-normal-67124ea6",
-      "shareId": "qa-g3",
-      "version": 1,
-      "subject": "QA Subject",
-      "subjectKey": "qa-subject",
-      "name": "QA Normal",
-      "emoji": "",
-      "accentColor": "#607D8B",
-      "personaName": "",
-      "systemVoice": "",
-      "domainKnowledge": "",
-      "operationalPosture": "",
-      "councilRole": "",
-      "portraitUrl": "",
-      "thumbUrl": "",
-      "phash": "",
-      "authorId": "qa-author-a-0001",
-      "authorHandle": "QA-Bot",
-      "categories": [
-        "fictional"
-      ],
-      "tags": [],
-      "purpose": "",
-      "userAuthored": false,
-      "provenance": "legacy-no-portrait",
-      "subjectPublicFigure": false,
-      "selfAttested": false,
-      "status": "quarantined",
-      "stars": 0,
-      "downloads": 0,
-      "coordinates": "",
-      "hasSample": false,
-      "generatedAt": "",
-      "submittedAt": "2026-07-09T14:56:30.093Z",
-      "updatedAt": "2026-07-09T14:56:30.093Z"
     }
   ],
-  "generatedAt": "2026-07-09T14:56:53.576Z"
+  "generatedAt": "2026-07-09T14:56:57.829Z"
 }
