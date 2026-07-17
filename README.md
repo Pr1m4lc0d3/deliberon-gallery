@@ -4,6 +4,12 @@
 
 This repository is the backing store for the **Community Gallery** in [Deliberon](https://deliberon.com) — a place where users share the **agent portrait avatars** and personas they create and discover ones made by others.
 
+## Requires Deliberon
+
+Every agent here is a **[Deliberon](https://deliberon.com) plugin**, not a standalone program. Its `manifest.json` names a Deliberon class (`CustomSpecialistPlugin`) and a `minimumDeliberonVersion` — so a downloaded folder is just a portrait and some JSON until the Deliberon app loads it. You're free to clone this repo and read every persona, but nothing here *does* anything on its own.
+
+To actually use an agent, install it from the Community Gallery **inside Deliberon**, which needs a **Deliberon Standard license or higher**. Browsing this repo is open to anyone; using the personas is not.
+
 ## Layout
 
 Each shared agent is its own folder — a real, copy-installable plugin:
