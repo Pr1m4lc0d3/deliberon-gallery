@@ -1,5 +1,7 @@
 # Deliberon Community Gallery
 
+![Deliberon Community Gallery — browse, share, and install AI agent personas](./assets/social-preview.png)
+
 This repository is the backing store for the **Community Gallery** in [Deliberon](https://deliberon.com) — a place where users share the **agent portrait avatars** and personas they create and discover ones made by others.
 
 ## Layout
